@@ -9,4 +9,4 @@
 
 This code should generate the following PDF file:
 
-![Local Image](/figures/ipyrad_threshold_stats_ISC.jpg)
+<img src="/figures/ipyrad_threshold_stats_ISC.jpg" alt="Local Image" width="50%" height="50%">

@@ -9,6 +9,6 @@
 
 This code should generate the following PDF file:
 
-<p align:"center">
-<img src="/figures/ipyrad_threshold_stats_ISC.jpg" alt="Local Image" width="50%" height="50%">
+<p align="center" width="100%">
+    <img src="/figures/ipyrad_threshold_stats_ISC.jpg" alt="Local Image" width="50%" height="50%">
 </p>

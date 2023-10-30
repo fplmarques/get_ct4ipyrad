@@ -17,7 +17,7 @@ This code should generate the following PDF file:
 ## To get Between-sample Cluster Thresholds
 
 ```bash
-./parse_stats_files.py -p 'steatogenys_ISC_95_231027_stats_*.txt'
+./parse_stats_files.py -p 'any_prefix_stats_*.txt'
 plot_BSC_graphs.r
 ```
 

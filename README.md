@@ -2,10 +2,10 @@
 
 The scripts can be used to select in-sample-clustering (ISC) and Between-sample-clustering (BSC) thresholds in iPYRAD studies according to the protocol suggested by **Hühn *et al*. (2022)**.
 
-## iPYRAD should be run in two stages:
+## iPYRAD runs:
 
 1. Run your dataset using multiple values for parameter [14] ([clust_threshold]: Clustering threshold for de novo assembly) for steps 1 to 5 (-s 12345). Following, identify the optimal in-sample clustering threshold (see below);
-2. For the selected in-sample clustering threshold run iPYRAD for multiple values of the clustering threshold for steps 6 and 7 (-s 67). Following identify the optimal between-sample clustering threshold (see below).
+2. For the selected in-sample clustering threshold run iPYRAD for multiple values of the clustering threshold for steps 6 and 7 (-s 67). Following, identify the optimal between-sample clustering threshold (see below).
 
 ## To get In-sample Cluster Thresholds
 
